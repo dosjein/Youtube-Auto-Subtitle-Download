@@ -1,5 +1,6 @@
 ## Download Youtube Subtitle
 
+[Quora instruction](https://www.quora.com/Is-there-a-way-to-extract-the-automatically-generated-subtitles-in-YouTube)
 <br>
 #### After install, it Look like this:
 (Yep, two program, one for auto subtitle, one for complete subtitle.)
